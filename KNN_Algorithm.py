@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Oct 15 19:04:29 2021
 
-@author: hp
-"""
 # KNN algorithm
 import numpy as np
 import pandas as pd
